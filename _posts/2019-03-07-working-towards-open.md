@@ -9,7 +9,7 @@ tag:
 - OER
 - Open Education
 - Community
-category: blog
+category: notes
 author: lillianhogendoorn
 description: Keynote delivered at Brock Univesity for Open Education Week
 ---
