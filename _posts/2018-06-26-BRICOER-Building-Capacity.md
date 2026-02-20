@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - OER
 - Community Development
-category: blog
+category: notes
 author: lillianhogendoorn
 description: Webinar for BRICOER Open Education Learning Week
 ---
