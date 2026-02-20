@@ -4,7 +4,7 @@ layout: post
 date: 2019-03-07 9:00
 image: false
 headerImage: false
-star: true
+star: false
 tag:
 - OER
 - Open Education
