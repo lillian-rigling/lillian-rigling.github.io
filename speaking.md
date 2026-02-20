@@ -2,13 +2,30 @@
 title: Speaking
 layout: page
 ---
+
 # Speaking
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ezkIz8u8TXSVYhIjIS1CqR_QHVDBBHUs" width="800" height="275"></iframe> 
+I speak about digital strategy and transformation, user experience, and how libraries build sustainable, accessible digital environments through governance, content strategy, and organizational change.
 
 ## Presentations 
+
+##### 2025
+* Turning 12 websites into 1 (and how change management is UX), Hogendoorn, L. & Woehrle, E., UX Leadership of Libraries Fall Meetup, December 4, 2025.
+* Leveling up: Practical approaches to making digital spaces more accessible and inclusive (panelist), IT@UofT Conference, May 2025.
+* From Frustration to Flow: A Journey to Improved E-Resource Problem Reporting, Calhoun, E., Hogendoorn, L., & Woehrle, E., Electronic Resources & Libraries, March 2025.
+
+##### 2024
+* Elevating Library Milestones: From Concrete to Community - The Robarts Library 50th Anniversary Journey, Woloszansky, L. & Hogendoorn, L., Library Marketing and Communications Conference, November 2024.
+* When Two Become One: Harmonizing Library Technologies for a Seamless User Experience, Hogendoorn, L. & Bond, S., Access Conference, October 2024.
+
+##### 2023
+* When Worlds Collide: Transferable Skills and the Library Workforce, Hogendoorn, L., Carlisle-Johnston, E., & Kerbavaz, K., Ontario Library Association Super Conference 2023, February 2023.
+
+##### 2021
+* Open Communities Sustained by Open Infrastructure (Panelist), Wagstaff, S., Hogendoorn L., Forsyth, G., Greene, T. & Wake-Hyde, Z., Open/Technology in Education, Society, and Scholarship Association, June 2021.
+
 ##### 2019
 * Open Content Deserves Open Platforms: Principles & Practices for a Publicly-Owned Publishing Infrastructure, (Panelist), Wagstaff, S. Hogendoorn, L., Brown, A., & Wentworth, A. Library Publishing Forum, May 2019.
-* Moving Beyond the Pitch: Creating a Statemnet of Values for Open Practitioners, Hogendoorn L. & Versluis, A. OER19 Association for Learning Technology, April 2019.
+* Moving Beyond the Pitch: Creating a Statement of Values for Open Practitioners, Hogendoorn L. & Versluis, A. OER19 Association for Learning Technology, April 2019.
 * Making Music, Uncovering Copyright, Hogendoorn, L., Groth, J.E., & Cross, W. Association of College and Research Libraries 2019, April 2019.
 * From Open Education to Social Justice: Making the Leap, (Panelist) Brander, L., Hogendoorn, L., Daniels, C., & Tucker, A. Ontario Library Association Superconference 2019, January 2019.
 
@@ -25,15 +42,15 @@ layout: page
 * Reclaiming STEM Spaces: Why Haven't Libraries and University Presses Worked Together to Form Viable Alternatives to Commercial Publishing?  (Panelist), Society for Scholarly Publishing 39th Annual Meeting, June 2017.
 * Refocusing the Instruction Support Page on the Instructors, Rigling, L. & Orphanides, A., NC-LITE 2017 Spring Meeting, May 2017.
 * [Open Education on Student Time: Library Instruction that Empowers Student Understanding and Advocacy](https://docs.google.com/presentation/d/1SeO2X0k6XSzzrjUtXOW1biiRAsjM56Tcl6wY8ZFad4s/edit?usp=sharing), Rigling, L., Cross, W., Grguric, E., & Sullivan, M., California Conference on Library Instruction, May 2017.
-* [NextGen Open: Planting Seeds to Cultivate Open Advocates, Scholars, and Creators](https://docs.google.com/presentation/d/19GFZXEo1ne5i_DmWQjW6QO111tLwD35LlOYmWaYoUGM/edit?usp=sharing) (workshop), Rigling, L., & Di Monte, L., Creative Commons Global Summit, April 2017
-* [Let Your Conscience Be Your Guide: Taming Online Research Guides at the NCSU Libraries](https://docs.google.com/presentation/d/1PBXO95DIL2LpJdyaORDvKhbZkbTevSnbgN775tcKGXU/edit?usp=sharing) – Rigling, L., & Orphanides, A., Human-Centered Libraries: Crafting Value and Relevance (LAUNC-CH 2017), March 2017.
+* [NextGen Open: Planting Seeds to Cultivate Open Advocates, Scholars, and Creators](https://docs.google.com/presentation/d/19GFZXEo1ne5i_DmWQjW6QO111tLwD35LlOYmWaYoUGM/edit?usp=sharing) (workshop), Rigling, L., & Di Monte, L., Creative Commons Global Summit, April 2017.
+* [Let Your Conscience Be Your Guide: Taming Online Research Guides at the NCSU Libraries](https://docs.google.com/presentation/d/1PBXO95DIL2LpJdyaORDvKhbZkbTevSnbgN775tcKGXU/edit?usp=sharing), Rigling, L., & Orphanides, A., Human-Centered Libraries: Crafting Value and Relevance (LAUNC-CH 2017), March 2017.
 * [Understanding Student Behavior to Support Student Success: Two Empirical Lenses for an Impactful Open Education Program](https://docs.google.com/presentation/d/1iSvceX3IgoYCVs-Hos2UXfHW5QB0tl0Psv7iiEDlN1s/edit?usp=sharing), Cross, W., Rigling, L., & Grguric, E., Empirical Librarians Conference, February 2017.
 * What Can I Do with That Code?: Understanding Open Source Licenses in the Wild, Rigling, L., Khan, N., & Cross, W. - OpenSource101 (All Things Open), February 2017.
 
 ##### 2016
 * Data + Relationships: Using Institutional Knowledge and Student Voices to Advocate for Open Education (lightning talk), Rigling, L., OpenCon, November 2016.
 * Library Usage as a Map for Targeting OER Advocacy & Growth, Raschke, G., Cross, W., Thompson, S., Vickery, J., & Rigling, L., The 13th Annual Open Education Conference, November 2016.
-* [Behind the Screen: How Platform-Specific Policy Affects Consumer Behaviour of Non-Consensual Pornography](https://www.slideshare.net/LillianRigling/behind-the-screen-how-platformspecific-policy-affects-consumer-behaviour-of-nonconsensual-pornography) – Rigling, L., & Clarkson, A., Oxford Internet Institute Internet, Policy, & Politics Conference, September 2016.
+* [Behind the Screen: How Platform-Specific Policy Affects Consumer Behaviour of Non-Consensual Pornography](https://www.slideshare.net/LillianRigling/behind-the-screen-how-platformspecific-policy-affects-consumer-behaviour-of-nonconsensual-pornography), Rigling, L., & Clarkson, A., Oxford Internet Institute Internet, Policy, & Politics Conference, September 2016.
 * [Accessing Academic Integrity: Supporting undergraduate students through Policy Rebranding and Outreach](http://accessola2.com/superconference2016/Posters/Accessing-Academic-Integrity.pdf), Clarkson, A., Fratarcangeli, B., Moffat, C., Rigling, L., & Sparling, A., Ontario Library Association Superconference, January 2016 (Poster).
 
 ##### 2015
@@ -57,4 +74,4 @@ layout: page
 * [Introduction to OER](http://libraryjuiceacademy.com/147-oer.php)- Hogendoorn, L. - Library Juice Academy, 2020
 * [The Basics and Beyond: Developing a Critical, Community-Based Approach to Open Education](https://docs.google.com/document/d/1LCDrftjev4VSPY0V3lD6OGkD_GGwgqMYiktKsCaN7qc/edit#heading=h.3e8s92ceglc) (5 day core course) - Hare, S., Rigling, L., & Versluis, A. - Force11 Scholarly Communications Institute, July- August 2018
 * [Opening the Sandbox: Supporting Student Research as a Gateway to Open Practice](https://docs.google.com/document/d/1G6oaX5xe3rDX2_CzHtgCAsEC7wRE7vNzJr2QArQDaz4/edit#heading=h.30j0zll) (2 day elective course) - Cross, W., Waller, M., & Rigling, L. - Force11 Scholarly Communications Institute, July-August 2017
-* [Applying Design Thinking and User Research to the Scholarly Communication Problem Space](https://docs.google.com/document/d/1QA9CJuv3VGCUaawM02NCPFxbYJIlN5HD5ixTqMg5Q78/edit) (2 day elective course) - Grguric, E., Rigling, L., & Cross, W. - Force11 Scholarly Communications Institute, July-August 2017
+* [Applying Design Thinking and User Research to the Scholarly Communication Problem Space](https://docs.google.com/document/d/1QA9CJuv3VGCUaawM02NCPFxbYJIlN5HD5ixTqMg5Q78/edit) (2 day elective course) - Grguric, E., Rigling, L., & Cross, W. - Force11 Scholarly Communications Institute, July-August 2017 
