@@ -1,129 +1,107 @@
 ---
-Title: CV
-Layout: Page
+title: CV
+layout: page
 ---
-# Experience
-## Education
-**Postgraduate Certificate**, Learning Design *University of Toronto School of Continuing Studies* `2020`
 
-**Master of Information**, Library & Information Science *University of Toronto Faculty of Information* `2016`
-
-**Honours Bachelor of Arts**, English, Writing & Rhetoric *University of Toronto Faculty of Arts & Science* `2014`
+# Curriculum Vitae
 
 ## Employment
-**Curator of Digital Experience (Librarian)**, University of Toronto Libraries, `2021 - present`
+**Web Project Manager and Content Strategy Librarian (III)** — *University of Toronto Libraries, Information Technology Services* `2021 – present`
 
-**Manager, Digital Access and Open Educational Resources**, eCampusOntario, `2020 - 2021`
+**Manager, Digital Access & OER** — *eCampusOntario* `2020 – 2021`
 
-**Instructor: Introduction to OER**, Library Juice Academy, `2020 - 2021`
+**Digital Access & Open Educational Resources Lead** — *eCampusOntario* `2019 – 2020`
 
-**Digital Access & Open Educational Resources Lead**, eCampusOntario `2019 - 2020`
+**Program Coordinator** — *eCampusOntario* `2018 – 2019`
 
-**Program Coordinator**, eCampusOntario `2018 - 2019`
+**Instructor** — *Library Juice Academy* `2020 – 2021`
 
-**Research & Scholarly Communications Librarian**, Western University Libraries `2017 - 2018`
+**Research and Scholarly Communications Librarian (General Librarian)** — *Western University Libraries* `2017 – 2018`
 
-**Donald E. Moreland Library Fellow/Librarian**, North Carolina State University Libraries `2016 - 2017`
-* Copyright & Digital Scholarship Centre
+**Donald E. Moreland Library Faculty Fellow** — *North Carolina State University Libraries* `2016 – 2017`
 * User Experience Department
+* Copyright & Digital Scholarship Center
 
-**Institutional Repositories GSLA**, University of Toronto Libraries `2015 - 2016`
-* Information Technology Services Department
 
-**Scholarly Communications and Copyright GSLA**, University of Toronto Libraries `2014 - 2016`
-* Scholarly Communications and Copyright Office, Office of the Chief Librarian
+## Education
+**Certificate**, Learning Experience Design — *University of Toronto School of Continuing Studies* `2020`
 
-**Access and Information Services SLA**, University of Toronto Libraries `2013 - 2015`
+**Master of Information**, Library and Information Science — *University of Toronto Faculty of Information* `2016`
+
+**Honours Bachelor of Arts**, English — *University of Toronto Faculty of Arts and Science* `2014`
+
 
 ## Grants, Scholarships, & Awards
-`2018` Diversity, Equity, and Inclusion Scholarship, Open Textbook of Scholarly Communication Librarianship Unconference - SPARC/ACRL
+`2024` Staff Team Appreciation and Recognition Award — University of Toronto Libraries
 
-`2017` Exploring Emerging Mobile Technologies for Libraries’ Teaching, Outreach, and Communication, Grant - NCSU Libraries Good Idea Grant, Co-Investigator ($4,250.00)
+`2023` Chief Librarian Innovation Award — University of Toronto Libraries
 
-`2017` Open Textbook Toolkit, Grant- Institute of Museum & Library Services (IMLS LG-72-17-0051-17), co-author ($49,958.00)
+`2018` Diversity, Equity, and Inclusion Scholarship — Open Textbook of Scholarly Communication Librarianship Unconference (SPARC/ACRL)
 
-`2016` Second Runner Up, World Usability Day, Triangle User Experience Professionals Association
+`2017` Exploring Emerging Mobile Technologies for Libraries’ Teaching, Outreach, and Communication — NCSU Libraries Good Idea Grant, Co-Investigator
 
-`2016` OpenCon 2016 Scholarship, Scholarly Publishing and Academic Resources Coalition
+`2017` Open Textbook Toolkit — Institute of Museum & Library Services Grant, Co-author
 
-`2016` Staff Team Appreciation and Recognition Award, Ongoing Excellence (TSpace Team), University of Toronto Libraries
+`2016` Second Runner Up — World Usability Day, Triangle User Experience Professionals Association
 
-`2016` Outstanding Student Contribution Award, Faculty of Information Alumni Association
+`2016` OpenCon Scholarship — Scholarly Publishing and Academic Resources Coalition
+
+`2016` Staff Team Appreciation and Recognition Award (TSpace Team) — University of Toronto Libraries
+
+`2016` Outstanding Student Contribution Award — Faculty of Information Alumni Association
+
 
 ## Professional Service
-#### National/International
-* **Canadian Association of Research Libraries**
-  * Open Education Working Group (ex-officio)
-  * Open Education Librarian Leadership Planning Group
-  * Strengthening Capacity Committee’s Core Competencies Working Group
 
-* **The Idealis**
-  * Contributing Editor
+### University of Toronto Libraries
+* Web Steering Committee (Chair) `2024–present`
+* Web Advisory Committee (Co-Chair) `2021–2024`
+* UX Community of Practice Working Group (Co-Chair)
+* LibGuides Editorial Working Group (Co-Chair)
+* Assessment Committee (ex officio)
+* Reference Services Committee (ex officio)
+* Research Supports Task Force III
 
-* **OpenCon**, SPARC & Right 2 Research Coalition**
-  * Satellite organizer, OpenCon 2017: NC Student Leaders, April 2017
-  * Application review team, OpenCon 2017
+### National / International
+* American Library Association — Peer Reviewer (*Information Technology and Libraries*; *Library Leadership & Management*)
+* Code4Lib — Keynote Committee
+* Digital Library Federation — Assessment Interest Group (UX Working Group)
+* Canadian Association of Research Libraries — Open Education Working Groups
+* Access Library Conference — Peer Reviewer
+* Archives, Library, and Information Mentor Base — Mentor
+* OpenCon / SPARC — Organizer & Review Committee
+* Triangle Scholarly Communications Institute — Facilitator
+* *The Idealis* — Contributing Editor
 
-* **Triangle Scholarly Communications Institute,** Mellon Foundation
-  * Staff and facilitator (2016 Triangle SCI)
+### Local / Regional
+* Ontario Library Association — MentorMatch Mentor
+* Western University Open Education Working Group (Co-Chair)
+* Western Libraries Scholarly Communication Subcommittee (Co-Chair)
 
-* **Journal of Librarianship and Scholarly Communication,** Ubiquity Press
-  * Reviewer
-
-#### Local/Regional
-* **Ontario Consortium of University Libraries**
-  * OER White Paper Working Group
-
-* **Western University**
-  * Open Education Working Group Co-Chair
-
-* **Western Libraries**
-  * Scholarly Communication Subcommittee Co-Chair
-  * Research Metrics Subcommittee
-  * Research Support Standing Committee
-
-* **NCSU Libraries**		         
-  * Instruction & e-Learning Team
-  * User Research Team, Principal Investigator
-  * Staff Learning and Development Committee, Staff to Committee
-
-* **Alt-Textbook Committee**
-  * Co-chair
-  * Open Education Expert
-
-* **University of Toronto Faculty of Information**
-  * iSchool Student Conference: 2016 Conference Co-Chair: Marketing and Online Communications
-  * Admissions: Invited speaker and student life rep – Prospective & Admitted Student Days.
-  * Mentoring @ iSchool Program Co-Chair, Mentor (2015-16)
-  * Master of Information Student Council
-    * Academic Affairs Chair (2015-16)
-    * Social Committee Co-Chair (2015-16)
-    * Graduate Student Union Representative  - UTGSU Grievance Working Group (2014-15)
-    * Class Representative (2014-15)
-
-* **University of Toronto Libraries**
-  * 2015 Copyright in Canada Conference, Organizing committee
 
 ## Additional Training
-* Agile Project Management: Global Knowledge Toronto
-* Google Analytics Masterclass: The Knowledge Academy
-* Creating Accessible Word/PDF Documents: Accessibility Ontario
-* Creative Commons Certificate (Beta): Creative Commons  
-* Automate the Boring Stuff with Python: Udemy
-* A Crash Course in Data Science: Johns Hopkins University on Coursera
-* CopyrightX: HarvardX/Berkman Klein Center for Internet & Society
-* Introduction to User Experience: Girl, Develop It! Raleigh-Durham Chapter
+* Certified in Cybersecurity — ISC2 `2025`
+* Google Analytics Certification — Google Digital Academy `2025`
+* Designing Influence — Nielsen Norman Group `2023`
+* Library Management Skills Institute I — DeEtta Jones & Associates `2022`
+* Confluence Fundamentals Badge — Atlassian University `2022`
+* Mozilla Open Leaders Certificate — Mozilla Foundation `2019`
+* Creative Commons Certificate — Creative Commons `2018`
+* CopyrightX — HarvardX / Berkman Klein Center for Internet & Society `2017`
+
 
 ## Skills
-#### Technical Skills
-* Content Management Systems, including Drupal, Wordpress, and Cascade.
-* Digital Repository Systems, including DSpace and bePress 
-* HTML, CSS, and Markdown proficiency.
-* Data Analysis and visualization tools, including OpenRefine, R, NVivo, and Tableau.
 
-#### Transferable Skills
-* Experienced in agile project management.
-* Grant writing for local and federal grants.  
-* User experience and user research methodologies.
-* Proven success building community partnerships through outreach initiatives.
-* Curriculum design & instruction experience for in-class, virtual, and workshop-based instruction. 
+### Technical
+* Content management systems: Drupal, WordPress, Cascade
+* Analytics and reporting: Google Analytics; Looker Studio
+* Version control and collaboration: GitHub, GitLab
+* Project management and ticketing tools: Atlassian ecosystem, Wrike, Trello
+* HTML, CSS, and Markdown
+
+### Professional
+* Digital strategy and transformation
+* UX research and service design
+* Governance and change management
+* Stakeholder facilitation and cross-functional leadership
+* Instruction and curriculum design
