@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: l_hogendoorn
+# twitter: l_hogendoorn
 # google: mygoogle
 instagram: l_hogendoorn
 # pinterest: mypinterest
@@ -59,8 +59,8 @@ authors:
         name: Lillian Hogendoorn
         bio: UX Librarianship, Critical Digital Practice, Openness, and other things on the Internet.
         external-image: false
-        picture: assets/images/0058.jpg
-        twitter: l_hogendoorn
+        picture: assets/images/IMG_0254 2.jpeg
+   
    
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
