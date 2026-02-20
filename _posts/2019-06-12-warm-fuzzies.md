@@ -9,7 +9,7 @@ tag:
 - OER
 - Open Education
 - Community
-category: blog
+category: notes
 author: lillianhogendoorn
 description: Thinking about the culture I love and the culture I feel uncomfortable in and why they are the same.
 ---
