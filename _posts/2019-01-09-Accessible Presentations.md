@@ -8,7 +8,7 @@ star: false
 tag:
 - Accessibility
 - Conference
-category: blog
+category: notes
 author: lillianhogendoorn
 description: Easy tips to prepare and deliver an accessible presentation
 ---
