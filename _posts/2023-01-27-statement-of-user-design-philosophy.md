@@ -5,7 +5,7 @@ date: 2023-01-26 9:00
 image: false
 headerImage: false
 tag:
-category: blog
+category: notes
 author: lillianhogendoorn
 description: How I ideally approach my work, though sometimes this touchpoint fails me.
 ---
