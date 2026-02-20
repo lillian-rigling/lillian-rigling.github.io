@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - Creative Commons
 - Open Licenses
-category: blog
+category: notes
 author: lillianhogendoorn
 description: My final thoughts on the Creative Commons Certification Course
 ---
